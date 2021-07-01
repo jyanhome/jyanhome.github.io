@@ -1,0 +1,16 @@
+.copyright {
+    visibility: hidden;
+}
+.wrapper {
+    background: url(image/wallpaper/1.jpeg);
+    background-attachment: local;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar .container {
+    visibility: hidden;
+}
